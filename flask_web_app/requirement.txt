@@ -1,0 +1,11 @@
+numpy==1.25.2
+pandas==1.4.4
+scikit-learn==1.2.2
+nltk==3.7
+seaborn==0.12.1
+matplotlib==3.6.2
+flask==3.0.1
+python-dotenv==1.0.0
+flask-sqlalchemy==3.1.1
+flask-migrate==4.0.5
+pymysql==1.1.0
